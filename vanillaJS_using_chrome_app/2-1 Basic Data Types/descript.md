@@ -1,0 +1,2 @@
+- 기초 문법 설명
+- string, int, float 등

@@ -1,0 +1,1 @@
+if-else문을 적용하기 전에 prompt, typeof에 대해 설명

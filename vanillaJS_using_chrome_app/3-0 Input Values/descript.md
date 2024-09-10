@@ -1,0 +1,1 @@
+getElementById() : ID 검색 기능 (ID를 검색한다는 것을 JS가 인지하고 있음.)
