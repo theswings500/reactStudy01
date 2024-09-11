@@ -12,9 +12,15 @@ const loginButton = document.querySelector("#login-form button");
 
 // 로그인 버튼을 클릭했을때 콘솔창에 클릭 출력
 function onLoginBtnClick() {
-    // console.dir("hello", loginInput.value);
-    console.log("hello", loginInput.value);
-    
+    const username = loginInput.value;
+    console.log(username);
+    // // username이 empty인지 확인
+    // if(username === "") {
+    //     alert("please write your name.");
+    // }
+    // else if(username.length > 15) {
+    //     alert("your name is too long.");
+    // }
 }
 
 loginButton.addEventListener("click", onLoginBtnClick);
